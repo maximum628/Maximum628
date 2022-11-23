@@ -7,7 +7,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Redmon540" /> </p>
   
-- 💼 any freelance work? do reach, [email](ny581383@gmail.com) :)
+- 💼 any freelance work? do reach, [email](maximum95628@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -78,4 +78,4 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Aptos" src="https://img.shields.io/badge/Aptos-000000?logo=aptos&logoColor=white"></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Redmon540&show_icons=true&theme=gotham" alt="***" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maximum628&show_icons=true&theme=gotham" alt="***" />
