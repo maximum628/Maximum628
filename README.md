@@ -77,5 +77,3 @@ I take great care in the experience, architecture, and code quality of the thing
     <a href="#"><img alt="Solana" src="https://img.shields.io/badge/Solana-3DDC84?logo=solana&logoColor=white"></a>
     <a href="#"><img alt="Aptos" src="https://img.shields.io/badge/Aptos-000000?logo=aptos&logoColor=white"></a>
 </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maximum628&show_icons=true&theme=gotham" alt="***" />
