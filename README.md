@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Redmon540"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/maximum628"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20Developer;7%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 Hello, I'm a passionate self-taught Blockchain developer and a freelance software engineer from Canada. 
