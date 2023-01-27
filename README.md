@@ -9,6 +9,9 @@ I take great care in the experience, architecture, and code quality of the thing
   
 - 💼 any freelance work? do reach, [email](maximum95628@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- skype: live:.cid.87867a3f9abed42c;
+- telegram: https://t.me/Maximum628
+- discord: maximum#4608
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
